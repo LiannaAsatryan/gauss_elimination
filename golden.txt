@@ -1,0 +1,5 @@
+25/6 13/6 -10/3
+no solution
+9/2 1/4 5/4 -15/4 5/2
+no solution
+wrong size, cannot continue the process
