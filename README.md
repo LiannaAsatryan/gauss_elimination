@@ -14,7 +14,7 @@
                |matrix1|
                |_______|
  		
-		size2
+		 size2
                 _______
                |       |
                |matrix2|
