@@ -9,7 +9,6 @@
   
   
 	        size1
-
                 ________
                |       |
                |matrix1|
@@ -46,5 +45,6 @@ to clean the generated files type
 
 #to run the test you type
  make test
-to clean the generated files type 
+ 
+#to clean the generated files type 
  make clean
