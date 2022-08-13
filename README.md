@@ -3,7 +3,11 @@
 
 #files
  in this directory there are following files
-* input.txt __ it is the file where our matrix examples are arranged in the following order
+ 
+* input.txt __ it is the file where our matrix examples are arranged
+  in the following order
+  
+  
 	        size1
 		________
                |       |
@@ -16,6 +20,7 @@
                |matrix2|
                |_______|
 	       ...
+
 * golden.txt __ it is the file where our correct answers are located
 * Rational.h __ it is a header file which contains the declaration of class Rational. The objects of this class are fractions
 * Rational.cpp __ the implementations of the Rational class methods
