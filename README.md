@@ -1,7 +1,5 @@
-#What this project does
- This project solves the given system of linear equations using Gauss-elimination method
+This project solves the given system of linear equations using Gauss-elimination method
 
-#files
  in this directory there are following files
  
 * input.txt __ it is the file where our matrix examples are arranged
@@ -9,17 +7,12 @@
   
   
 	        size1
-                ________
-               |       |
-               |matrix1|
-               |_______|
- 		
-		  size2
-                _______
-               |       |
-               |matrix2|
-               |_______|
-	       ...
+               matrix1
+
+		size2
+               matrix2
+  
+	        ...
 
 * golden.txt __ it is the file where our correct answers are located
 * Rational.h __ it is a header file which contains the declaration of class Rational. The objects of this class are fractions
@@ -33,25 +26,25 @@
 
 #description
 My project solves the system of linear equations using matrixes
-If the system doesn't have solution or the system is linearly dependent the answer is "no solution"
+If the system doesn't have a solution or the it is linearly dependent the answer is "no solution"
 If a letter is typed in place of number, the answer is "something is wrong with your file"
 If wrong size is typed the answer is "wrong size, cannot continue the process"
-And finally, when our system has solution the answer is written like this   "sol1 sol2 sol3 ... soln"
+And finally, when the system of equations has solution the answer is written like this   "sol1 sol2 sol3 ... soln"
 
-#to run the main program type
+to run the main program type:
 
  make
  
-#to clean the generated files type
+to clean the generated files type
 
  make clean 
 
 
-#to run the test you type
+to run the test type
 
  make test
 
 
-#to clean the generated files type
+to clean the generated files type
 
  make clean
