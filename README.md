@@ -3,16 +3,15 @@ This project solves the given system of linear equations using Gauss-elimination
  in this directory there are following files
  
 * input.txt __ it is the file where our matrix examples are arranged
-  in the following order
+  in the following order:
   
-  
-	        size1
-               matrix1
+size1
+matrix1
 
-		size2
-               matrix2
+size2
+matrix2
   
-	        ...
+...
 
 * golden.txt __ it is the file where our correct answers are located
 * Rational.h __ it is a header file which contains the declaration of class Rational. The objects of this class are fractions
