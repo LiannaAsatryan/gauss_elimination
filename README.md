@@ -6,9 +6,11 @@ This project solves the given system of linear equations using Gauss-elimination
   in the following order:
   
 size1
+
 matrix1
 
 size2
+
 matrix2
   
 ...
