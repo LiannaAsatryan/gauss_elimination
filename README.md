@@ -27,10 +27,10 @@ matrix2
 
 #description
 My project solves the system of linear equations using matrixes
-If the system doesn't have a solution or the it is linearly dependent the answer is "no solution"
+If the system doesn't have a solution or it is linearly dependent the answer is "no solution"
 If a letter is typed in place of number, the answer is "something is wrong with your file"
 If wrong size is typed the answer is "wrong size, cannot continue the process"
-And finally, when the system of equations has solution the answer is written like this   "sol1 sol2 sol3 ... soln"
+When the system of equations has solution the answer is written like this   "sol1 sol2 sol3 ... soln"
 
 to run the main program type:
 
